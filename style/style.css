@@ -150,7 +150,10 @@ li a{
     font-weight: 600;
     line-height: normal;
     letter-spacing: -0.5px;
-    width: 380px;
-    height: 159px;
+    width: 200px;
+    height: 135px;
     flex-shrink: 0;
+    position: absolute;
+    margin-top: 2970px;
+    margin-left: -93px;
 }
