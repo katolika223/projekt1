@@ -181,3 +181,15 @@ li a{
     margin-left: -826px;
 
 }
+.to{
+    color: #110101;
+    font-family: M PLUS Code Latin;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: -0.5px;
+    position: absolute;
+    margin-top: 1000px;
+    margin-left: -826px;
+}
