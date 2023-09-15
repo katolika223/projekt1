@@ -141,3 +141,16 @@ li a{
     letter-spacing: -0.5px;
 
 }
+.kk{
+    
+    color: #FFF;
+    font-family: M PLUS Code Latin;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: -0.5px;
+    width: 380px;
+    height: 159px;
+    flex-shrink: 0;
+}
